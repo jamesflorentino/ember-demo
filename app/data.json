@@ -1,0 +1,5 @@
+[
+    { "id": 0, "name": "iPhone", "price": "25000 "},
+    { "id": 1, "name": "iPad", "price": "25000 "},
+    { "id": 2, "name": "Macbook", "price": "125000 "}
+]
